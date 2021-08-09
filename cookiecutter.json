@@ -1,0 +1,9 @@
+{
+    "project_slug": "TBD",
+    "name": "Jane",
+    "app": "so-good",
+    "_copy_without_render": [
+        "*/not_rendered",
+        "*.raw"
+    ]
+}
